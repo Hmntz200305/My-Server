@@ -1,0 +1,28 @@
+{
+  "short_name": "Asset App",
+  "name": "LMD Asset Management Application",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#3274a6",
+  "background_color": "#00ffe4",
+  "id": "lmdasset",
+  "description": "Ini adalah Aplikasi Asset Management yang menggunakan PWA",
+  "dir": "auto"
+}
